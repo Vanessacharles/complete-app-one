@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url(img/ab.jpg);
+  background-size:cover;
+}
+h1{
+  color:white;
+}
+.hide{
+  display:none;
+}
+.col-sm-6:last-of-type{
+  color:white;
+}
+img{
+  height: 200px;
+}
